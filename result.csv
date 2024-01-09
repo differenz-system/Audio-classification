@@ -1,0 +1,16 @@
+Start (s);End (s);Scientific name;Common name;Confidence
+9.0;12.0;Spinus tristis;American Goldfinch;0.42487302
+9.0;12.0;Aimophila ruficeps;Rufous-crowned Sparrow;0.17742592
+12.0;15.0;Spinus tristis;American Goldfinch;0.34819487
+12.0;15.0;Aimophila ruficeps;Rufous-crowned Sparrow;0.26195383
+12.0;15.0;Basileuterus rufifrons;Rufous-capped Warbler;0.1119335
+15.0;18.0;Passer domesticus;House Sparrow;0.2585114
+15.0;18.0;Myioborus pictus;Painted Redstart;0.21784961
+18.0;21.0;Spinus tristis;American Goldfinch;0.8089927
+18.0;21.0;Aimophila ruficeps;Rufous-crowned Sparrow;0.12526129
+21.0;24.0;Catherpes mexicanus;Canyon Wren;0.15868358
+24.0;27.0;Passer domesticus;House Sparrow;0.2029369
+27.0;30.0;Spinus tristis;American Goldfinch;0.5541825
+30.0;33.0;Passer domesticus;House Sparrow;0.36428538
+30.0;33.0;Catherpes mexicanus;Canyon Wren;0.133895
+33.0;36.0;Junco phaeonotus;Yellow-eyed Junco;0.27205843
