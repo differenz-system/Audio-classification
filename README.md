@@ -1,6 +1,3 @@
-# BirdNET-Lite
-TFLite version of BirdNET. Bird sound recognition for more than 6,000 species worldwide.
-
 # Usage
 
 You can run BirdNET via the command line. You can add a few parameters that affect the output.
