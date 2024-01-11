@@ -1,3 +1,7 @@
+# Quick Demo
+
+![Alt text](asset/demo.gif "Optional title")
+
 # Usage
 
 You can run BirdNET via the command line. You can add a few parameters that affect the output.
