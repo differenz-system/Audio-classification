@@ -1,3 +1,45 @@
+# Overview
+
+BirdNET is an audio classification system designed for identifying bird species based on their vocalizations. Leveraging advanced machine learning techniques, BirdNET can analyze audio recordings of bird sounds and provide accurate species identification. The system supports a wide range of bird species, making it a valuable tool for birdwatchers, researchers, and anyone interested in avian biodiversity.
+
+1. **Audio Analysis:** BirdNET utilizes cutting-edge algorithms to analyze audio recordings and extract relevant features for bird species identification.
+
+2. **Command Line Interface:** The application is accessible via the command line, allowing users to input audio files and specify parameters for analysis.
+
+3. **Location and Time Data:** BirdNET can take into account the recording location (latitude and longitude) and the time of recording (week of the year) to enhance accuracy.
+
+4. **Custom Species List:** Users can provide a custom list of species for targeted analysis, making BirdNET flexible for specific birdwatching needs.
+
+5. **Confidence Thresholds:** The system outputs raw prediction scores, and users can set confidence thresholds to filter results based on their desired level of certainty.
+
+# Use Case
+Imagine a scenario where a birdwatcher is exploring a new location with diverse bird species. The birdwatcher records an audio clip of bird songs during the early morning and wants to identify the various bird species present in that area.
+
+**Use Case Steps:**
+
+1. **Recording:** The birdwatcher captures a few minutes of bird sounds using a recording device.
+
+2. **Analysis with BirdNET:**
+
+    - The birdwatcher runs the BirdNET application via the command line.
+    - Inputs the recorded audio file, providing optional parameters such as location (latitude and longitude) and       recording time (week of the year).
+    - Adjusts sensitivity, overlap, and confidence thresholds based on personal preferences.
+
+3. **Identification Results:**
+
+    - BirdNET processes the audio file and generates a result file in CSV format.
+    - The file includes identified bird species along with raw confidence scores.
+
+4. **Review and Enjoyment:**
+
+    - The birdwatcher reviews the results, focusing on species with high confidence scores.
+    - With an 88% accuracy rate and support for over 6000 bird species, BirdNET provides reliable identification.
+
+5. **Documentation and Collaboration:**
+
+    - Results can be documented for personal records or shared with other birdwatchers and researchers.
+    - Users can collaborate, share custom species lists, and contribute to the improvement of the BirdNET database.
+
 # Quick Demo
 
 ![Alt text](asset/demo.gif "Optional title")
